@@ -28,7 +28,7 @@ switch ($imc) {
         echo "<h2>" . "Seu IMC é $imc, portanto seu resultado é Obesidade grau II" . "</h2>";
         break;
     default:
-        echo "<h2>" . "Seu IMC é $imc, portanto seu resultado é Obesidade grau II" . "</h2>";
+        echo "<h2>" . "Seu IMC é $imc, portanto seu resultado é Obesidade grau III" . "</h2>";
 }
 ?>
 </body>
